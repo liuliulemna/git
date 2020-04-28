@@ -1,4 +1,4 @@
-git is free soft
+git is a free soft
 
 i changed it
 
